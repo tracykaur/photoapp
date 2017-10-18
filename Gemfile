@@ -40,6 +40,9 @@ group :development, :test do
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
   gem 'sqlite3'
+  gem 'devise'
+  gem 'twitter-bootstrap-rails'
+  gem 'devise-bootstrap-views'
 end
 
 group :development do
